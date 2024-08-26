@@ -1,0 +1,6 @@
+database:
+  mongodb:
+    uri: "mongodb+srv://sadnamsakib:Kk2kxFzfk2zyrFY5@echo-chat.iiy9j.mongodb.net/?retryWrites=true&w=majority&appName=echo-chat"
+    database: "test"
+JWT:
+  secret: "Z1xcvbnm,./"
